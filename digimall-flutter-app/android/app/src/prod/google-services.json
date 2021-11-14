@@ -1,0 +1,39 @@
+{
+    "project_info": {
+        "project_number": "895633425838",
+        "project_id": "digimall-123a5",
+        "storage_bucket": "digimall-123a5.appspot.com"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:895633425838:android:e7a242104e750dad80f43f",
+                "android_client_info": {
+                    "package_name": "com.business.prachar"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "895633425838-s32ch89kuq59dah62ev3445p6qpfl7kf.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyCDg5K9Y2oqXLmq7one7Ik91WgqeMP6hKo"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "895633425838-s32ch89kuq59dah62ev3445p6qpfl7kf.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}

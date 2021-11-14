@@ -1,0 +1,5 @@
+What's new:
+1. New UI 
+2. Select from mutiple addresses or use your current address.
+3. Get estimated delivery time of your orders.
+4. Added support for Delivery Charges and Minimum Order Amount.

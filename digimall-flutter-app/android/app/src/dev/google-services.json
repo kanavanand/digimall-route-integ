@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "992825812404",
+    "firebase_url": "https://prachar-45b0d-default-rtdb.firebaseio.com",
+    "project_id": "prachar-45b0d",
+    "storage_bucket": "prachar-45b0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992825812404:android:b60bb922fef8d4243a3ee1",
+        "android_client_info": {
+          "package_name": "com.business.digimall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992825812404-6mqbm5nl7bnfnrhiia5jjt65l5tsuc77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARAEtrgVapnqk0puNY1mGfzpvB-bqOsYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992825812404-6mqbm5nl7bnfnrhiia5jjt65l5tsuc77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992825812404:android:8e586e41a6a1a0583a3ee1",
+        "android_client_info": {
+          "package_name": "com.business.prachar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992825812404-6mqbm5nl7bnfnrhiia5jjt65l5tsuc77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARAEtrgVapnqk0puNY1mGfzpvB-bqOsYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992825812404-6mqbm5nl7bnfnrhiia5jjt65l5tsuc77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992825812404:android:2cf61bed54cc0fe93a3ee1",
+        "android_client_info": {
+          "package_name": "com.business.prachar.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992825812404-6mqbm5nl7bnfnrhiia5jjt65l5tsuc77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARAEtrgVapnqk0puNY1mGfzpvB-bqOsYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992825812404-6mqbm5nl7bnfnrhiia5jjt65l5tsuc77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992825812404:android:b9c2e93beb96c2a03a3ee1",
+        "android_client_info": {
+          "package_name": "com.example.prachar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992825812404-57dca3dsh4eeisi5ie6jjov82rblhptu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prachar",
+            "certificate_hash": "d1f27e8d83bd8175dd9d2bf3754c5264bd2d235c"
+          }
+        },
+        {
+          "client_id": "992825812404-7urjdhce9kjekva0s90kft8hsd7bu16g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prachar",
+            "certificate_hash": "8ca79182615e6549782f2fd92cbce7007f5c07dc"
+          }
+        },
+        {
+          "client_id": "992825812404-6mqbm5nl7bnfnrhiia5jjt65l5tsuc77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARAEtrgVapnqk0puNY1mGfzpvB-bqOsYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992825812404-6mqbm5nl7bnfnrhiia5jjt65l5tsuc77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

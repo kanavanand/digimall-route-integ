@@ -1,0 +1,64 @@
+name: prachar
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 4.0.2+6
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  another_flushbar: ^1.10.18
+  auto_route: ^1.0.2
+  cached_network_image: ^3.0.0
+  cloud_firestore: ^1.0.7
+  cupertino_icons: ^1.0.2
+  dartz: ^0.10.0-nullsafety.2
+  firebase_auth: ^1.1.2
+  firebase_core: ^1.1.0
+  firebase_database: ^6.1.2
+  firebase_dynamic_links: ^2.0.2
+  firebase_messaging: ^9.1.3
+  firebase_storage: ^8.0.5
+  flutter_bloc: ^7.0.0
+  flutter_geocoder: ^0.2.2-nullsafety
+  flutter_local_notifications: ^5.0.0+3
+  fluttertoast: ^8.0.6
+  freezed_annotation: ^0.14.1
+  geoflutterfire: ^3.0.0-nullsafety.2
+  geolocator: ^7.0.3
+  get_it: ^7.1.3
+  http: ^0.13.1
+  image_cropper: ^1.4.0
+  image_picker: ^0.7.4
+  in_app_update: ^2.0.0
+  injectable: ^1.2.2
+  introduction_screen: ^2.1.0
+  location: ^4.1.1
+  paginate_firestore: ^1.0.0-nullsafety.0
+  provider: ^5.0.0
+  rxdart: ^0.26.0-nullsafety.1
+  share: ^2.0.1
+  shared_preferences: ^2.0.5
+  string_validator: ^0.3.0
+  timeago: ^3.0.2
+  truncate: ^3.0.1
+  url_launcher: ^6.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  # auto_route_generator: ^1.0.2
+  # build_runner: null
+  # freezed: ^0.14.0-nullsafety.1
+  # injectable_generator: ^1.4.0
+  lint: ^1.5.3
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/icons/
